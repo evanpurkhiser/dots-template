@@ -1,7 +1,7 @@
 ## Dots Template
 
-This template provides a way to quickly get up and running using the dots
-dotfile management utility.
+This template provides a way to quickly get up and running using the `dots`
+[dotfile management utility](https://github.com/EvanPurkhiser/dots).
 
 ### Method 1: Clone Me (Recomended)
 
