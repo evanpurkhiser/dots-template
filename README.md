@@ -16,12 +16,18 @@ dotfile management utility.
     You could also for example have a `common/develop` for configuration files
     specifically used for development tools.
 
- 3. Execute `source init` to install the dots manager and initialize your
+ 3. Organize your dotfiles into their respective configuration groups.
+
+ 4. Execute `source init` to install the dots manager and initialize your
     dotfiles into ther directories.
 
- 4. Execute `dots groups set [list of groups here]` then `dots install`.
+ 5. Execute `dots groups set [list of groups here]` then `dots install`.
 
  5. Enjoy your organized dotfiles!
 
 While not required, it's recommended to read through the [dots
 README](https://github.com/EvanPurkhiser/dots).
+
+---
+
+Don't forget to edit this README to be specific to your dotfiles!
