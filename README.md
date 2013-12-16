@@ -1,4 +1,4 @@
-### Dots Template
+## Dots Template
 
 This template provides a way to quickly get up and running using the dots
 dotfile management utility.
