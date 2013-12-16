@@ -26,7 +26,7 @@ dotfile management utility.
  5. Enjoy your organized dotfiles!
 
 While not required, it's recommended to read through the [dots
-README](https://github.com/EvanPurkhiser/dots).
+README](https://github.com/EvanPurkhiser/dots/blob/master/README.md).
 
 ---
 
