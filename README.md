@@ -35,13 +35,12 @@ $ git init dots-template
 
  2. Organize your dotfiles into their respective configuration groups.
 
- 3. Execute `source init` to install the dots manager and initialize your
+ 3. Execute `source init-dots` to install the dots manager and initialize your
     dotfiles into ther directories.
 
  4. Execute `dots groups set [list of groups here]` then `dots install`.
 
  5. Enjoy your organized dotfiles!
-
 
 While not required, it's recommended to read through the [dots
 README](https://github.com/EvanPurkhiser/dots/blob/master/README.md).
