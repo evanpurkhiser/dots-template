@@ -24,26 +24,26 @@ $ git init dots-template
 
 ### Setting Up Your Dotfiles
 
- 1. Create configuration groups as you see fit. All directories aside from the
-    `base` directory should contain a second directory in them representing a
-    sub-configuration group.
+1. Create configuration groups as you see fit. All directories aside from the
+   `base` directory should contain a second directory in them representing a
+   sub-configuration group.
 
-    For example you could have a `machines/desktop` configuration group for
-    your desktop and a `machines/laptop` configuration group for your laptop.
-    You could also for example have a `common/develop` for configuration files
-    specifically used for development tools.
+   For example you could have a `machines/desktop` configuration group for
+   your desktop and a `machines/laptop` configuration group for your laptop.
+   You could also for example have a `common/develop` for configuration files
+   specifically used for development tools.
 
- 2. Organize your dotfiles into their respective configuration groups.
+2. Organize your dotfiles into their respective configuration groups.
 
- 3. Execute `source init-dots` to install the dots manager and initialize your
-    dotfiles into ther directories.
+3. Execute `source init-dots` to install the dots manager and initialize your
+   dotfiles into ther directories.
 
- 4. Execute `dots groups set [list of groups here]` then `dots install`.
+4. Execute `dots groups set [list of groups here]` then `dots install`.
 
- 5. Enjoy your organized dotfiles!
+5. Enjoy your organized dotfiles!
 
 While not required, it's recommended to read through the [dots
-README](https://github.com/EvanPurkhiser/dots/blob/master/README.md).
+README](https://github.com/EvanPurkhiser/dots/blob/main/README.md).
 
 ---
 
